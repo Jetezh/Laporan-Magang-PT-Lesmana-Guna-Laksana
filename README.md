@@ -89,8 +89,8 @@ Berikut adalah teknologi yang digunakan selama pelaksanaan magang:
 
 Jika ada pertanyaan mengenai laporan atau teknis implementasi yang saya kerjakan, silakan hubungi:
 
-- **LinkedIn:** [Vega Setiawan](https://linkedin.com/in/vegasetiawan)
-- **Email:** [](vegasetiawan1603@gmail.com)
+- **LinkedIn:** [Vega Setiawan](www.linkedin.com/in/vega-setiawan)
+- **Email:** [vegasetiawan16@gmail.com](vegasetiawan1603@gmail.com)
 
 ---
 © 2025 Vega Setiawan. Dibuat untuk pemenuhan tugas akhir magang di PT Lesmana Guna Laksana.
