@@ -27,8 +27,8 @@ Selama periode magang ini, saya terlibat dalam pengembangan platform novel digit
 
 Berdasarkan berkas yang tersedia dalam repository ini:
 
-- [cite_start]`[Dokumentasi Magang Mandiri 2025 - Vega Setiawan.pdf](https://github.com/user-attachments/files/24674721/Dokumentasi.Magang.Mandiri.2025.-.Vega.Setiawan.pdf)`: Laporan komprehensif mencakup Bab I - IV mengenai detail teknis dan hasil magang[cite: 2025].
-- [cite_start]`Logbook Magang - Vega Setiawan - Frontend Developer.pdf`: Catatan aktivitas harian dan mingguan selama 5 bulan[cite: 1672].
+- `Laporan Akhir Magang-Vega Setiawan-S1 Sistem Informasi.pdf`: Laporan komprehensif mencakup Bab I - IV mengenai detail teknis dan hasil magang.
+- `Logbook Magang - Vega Setiawan - Frontend Developer.pdf`: Catatan aktivitas harian dan mingguan selama 5 bulan.
 - `Dokumentasi Magang Mandiri 2025 - Vega Setiawan.pdf`: Bukti visual kegiatan dan hasil pengerjaan fitur.
 - `Transkrip Nilai Magang...`: Penilaian kinerja dari mentor perusahaan.
 - `Sertifikat_Magang...`: Bukti kelulusan program magang.
@@ -65,23 +65,23 @@ Berikut adalah teknologi yang digunakan selama pelaksanaan magang:
 [cite_start]Berikut adalah ringkasan hasil pekerjaan utama yang dibahas dalam Laporan Akhir[cite: 2076]:
 
 ### 1. Frontend Optimization (Victie Platform)
-- [cite_start]**View Transition API:** Implementasi transisi halaman yang halus menggunakan library `next-view-transition` dan Framer Motion untuk meningkatkan UX[cite: 2238].
-- **SEO Technical Audit:** Optimasi skor *Core Web Vitals* (LCP, FID, CLS) menggunakan Unlighthouse. [cite_start]Implementasi Dynamic Metadata, Sitemap.yml, dan Robots.txt[cite: 2211, 2244].
-- [cite_start]**Performance:** Mengganti pagination tradisional dengan **Infinite Scroll + Lazy Loading** untuk menangani beban konten besar[cite: 2247].
-- [cite_start]**UI Polishing:** Perbaikan responsivitas mobile pada Header, Footer, dan komponen "GenreSelectionDialog"[cite: 2236, 2242].
+- **View Transition API:** Implementasi transisi halaman yang halus menggunakan library `next-view-transition` dan Framer Motion untuk meningkatkan UX.
+- **SEO Technical Audit:** Optimasi skor *Core Web Vitals* (LCP, FID, CLS) menggunakan Unlighthouse. Implementasi Dynamic Metadata, Sitemap.yml, dan Robots.txt.
+- **Performance:** Mengganti pagination tradisional dengan **Infinite Scroll + Lazy Loading** untuk menangani beban konten besar.
+- **UI Polishing:** Perbaikan responsivitas mobile pada Header, Footer, dan komponen "GenreSelectionDialog".
 
 ### 2. ERP Implementation & Automation
-- [cite_start]**ERPNext Integration:** Kustomisasi modul Akuntansi dan HR menggunakan Frappe Framework[cite: 2251].
-- **Finance Automation Middleware:** Pengembangan skrip Python untuk jembatan integrasi antara **DOKU Payment Gateway**, Database Victie, dan ERPNext. [cite_start]Skrip ini otomatis mencatat Jurnal Umum (*Journal Entry*) dari transaksi user secara real-time[cite: 2259, 2260].
-- [cite_start]**Project SIJASAP:** Pembuatan *sandbox project* sistem peminjaman sarana prasarana sebagai *Proof of Concept* sebelum implementasi ke production[cite: 2254].
+- **ERPNext Integration:** Kustomisasi modul Akuntansi dan HR menggunakan Frappe Framework.
+- **Finance Automation Middleware:** Pengembangan skrip Python untuk jembatan integrasi antara **DOKU Payment Gateway**, Database Victie, dan ERPNext. Skrip ini otomatis mencatat Jurnal Umum (*Journal Entry*) dari transaksi user secara real-time.
+- **Project SIJASAP:** Pembuatan *sandbox project* sistem peminjaman sarana prasarana sebagai *Proof of Concept* sebelum implementasi ke production.
 
 ### 3. DevOps & Infrastructure
-- [cite_start]**CI/CD Pipeline:** Perancangan workflow GitHub Actions yang memisahkan environment *Development*, *Staging*, dan *Production*[cite: 2267].
+- **CI/CD Pipeline:** Perancangan workflow GitHub Actions yang memisahkan environment *Development*, *Staging*, dan *Production*.
 - **AI-Powered Bug Tracker:** Pengembangan sistem pelaporan bug cerdas bernama **"Victia"**.
     - Menggunakan **LLM** dengan *Context Prompt* untuk analisis laporan.
-    - [cite_start]Laporan **Teknis** -> Otomatis masuk ke **GitHub Issues** dengan label CVSS score[cite: 2277].
-    - [cite_start]Laporan **Non-Teknis** -> Otomatis diteruskan ke **Discord** Customer Service[cite: 2280].
-- [cite_start]**Monitoring:** Implementasi Sentry untuk error tracking dan Redis untuk caching[cite: 2284].
+    - Laporan **Teknis** -> Otomatis masuk ke **GitHub Issues** dengan label CVSS score.
+    - Laporan **Non-Teknis** -> Otomatis diteruskan ke **Discord** Customer Service.
+- **Monitoring:** Implementasi Sentry untuk error tracking dan Redis untuk caching.
 
 ---
 
