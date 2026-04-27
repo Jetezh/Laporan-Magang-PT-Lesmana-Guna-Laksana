@@ -62,7 +62,7 @@ Berikut adalah teknologi yang digunakan selama pelaksanaan magang:
 
 ## 🚀 Key Highlights & Achievements
 
-[cite_start]Berikut adalah ringkasan hasil pekerjaan utama yang dibahas dalam Laporan Akhir[cite: 2076]:
+Berikut adalah ringkasan hasil pekerjaan utama yang dibahas dalam Laporan Akhir[cite: 2076]:
 
 ### 1. Frontend Optimization (Victie Platform)
 - **View Transition API:** Implementasi transisi halaman yang halus menggunakan library `next-view-transition` dan Framer Motion untuk meningkatkan UX.
